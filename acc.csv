@@ -1,0 +1,7 @@
+Speed_Limit (km/h),"Weather_Condition (0=Clear, 1=Rain, 2=Fog)","Road_Surface (0=Dry, 1=Wet, 2=Snow)",Number_of_Vehicles,"Time_of_Day (0=Day, 1=Night)",Accident_Severity
+30,0,0,1,0,1
+50,1,1,2,1,3
+70,2,0,3,1,4
+40,1,1,1,0,2
+80,2,2,4,1,5
+60,0,0,2,0,2
